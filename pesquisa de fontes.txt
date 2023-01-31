@@ -1,0 +1,3 @@
+integração do instagram: https://developers.facebook.com/docs/instagram/oembed
+
+converter imagem em texto: https://br.atsit.in/archives/63684
