@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: rgb(145, 125, 192);
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(145, 125, 192);
+  }
+
+  a:active {
+   color: rgb(66, 16, 183);
+  }
+
+  .post {
+    max-width: 240px;
+    background-color: rgba(211, 211, 211, 0.507);
+  }
+
+  .post p{
+    text-align: justify;
+    padding: 5px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .post_img {
+    width: 240px;
+  }

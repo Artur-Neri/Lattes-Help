@@ -1,0 +1,9 @@
+.blog {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.post img{
+    flex-basis: 1;
+}
